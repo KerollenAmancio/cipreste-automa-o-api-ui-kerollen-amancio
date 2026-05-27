@@ -1,0 +1,27 @@
+{
+  "name": "desafio_cypress_kerollen_amancio",
+  "version": "1.0.0",
+  "description": "Desafio treinamento cypress",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "keywords": [
+    "cypress",
+    "automation",
+    "bdd",
+    "qa"
+  ],
+  "author": "kerollen.amancio",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "cypress": "^13.14.2",
+    "@badeball/cypress-cucumber-preprocessor": "^24.0.1",
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.2.8",
+    "esbuild": "^0.28.0",
+    "@faker-js/faker": "^10.4.0",
+    "@cypress/browserify-preprocessor": "^3.0.2"
+  }
+}
