@@ -20,7 +20,7 @@ Faker.js
 Node.js
 
 📂 Estrutura do Projeto
-
+```text
 Desafio_Cypress
 │
 ├── cypress
@@ -44,7 +44,7 @@ Desafio_Cypress
 ├── package-lock.json
 ├── package.json
 └── README.md
-
+```
 ✅ Funcionalidades Automatizadas
 
 🌐 Testes Web (UI)
